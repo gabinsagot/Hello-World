@@ -1,2 +1,3 @@
 random
 Ce fichier est d'un plat désolant, ainsi il faut le garnir. 
+Je remodifie ce fichier afin de foutre la merde
