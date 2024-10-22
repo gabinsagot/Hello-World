@@ -1,1 +1,3 @@
 Ceci est un nouveau fichier texte. 
+Ce fichier vient d'être modifié. 
+Hop, remodifié.
